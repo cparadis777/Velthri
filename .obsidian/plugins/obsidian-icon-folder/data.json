@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiMapPin",
+      "LiGroupCreatures",
+      "LiPersonStanding",
+      "LiBook",
+      "RaBell"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,15 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Worldbuilding/Physique/Elysara.md": "LiMoon",
+  "Worldbuilding/Physique/Tyrandor.md": "LiMoon",
+  "Worldbuilding/Physique/Velthri": "LiEarth",
+  "z_templates/District.md": "LiBuilding",
+  "z_templates/Évènement.md": "LiHourglass",
+  "z_templates/Groupe Religieux.md": "RaBell",
+  "z_templates/Langue or dialecte.md": "LiBook",
+  "z_templates/NPC.md": "LiPersonStanding",
+  "z_templates/Organisation.md": "LiGroupCreatures",
+  "z_templates/Point d'intérêt.md": "LiMapPin"
 }

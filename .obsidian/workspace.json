@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16879ccf9039da79",
+        "id": "f9f9a6ce281e3cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "7c94e1058eb1ca08",
+            "id": "81701c7d0c4efdb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Société/Politique/Governement/Gouvernement de Velthri.md",
+                "file": "Worldbuilding/Physique/Velthri/Districts/Zeri/Zeri.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gouvernement de Velthri"
+              "title": "Zeri"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,189 +89,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6736a53ecae4481d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "424afdbcdf1cdfdf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Worldbuilding/Organisations/Others/Factions/The Keepers of the Past.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Keepers of the Past"
-            }
-          },
-          {
-            "id": "8a535211380a7b07",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Worldbuilding/Organisations/Others/Factions/The Keepers of the Past.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Keepers of the Past"
-            }
-          },
-          {
-            "id": "03982607099837ee",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5978f228a960e0df",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_0a5a8858da9a",
-                "ephemeral": {
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 10,
-                    "month": 9,
-                    "year": 208
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_49a859da1bc8"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a3fffddd7b35d203",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "89ce78e0329c50ee",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d12b2e6df7594e65",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "8bfdc3e21749c7af",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f3af928cb9327437",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_0a5a8858da9a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 10,
-                    "month": 3,
-                    "year": 208
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_c988882b9be9"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "65426ba275ab8ef9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "f9c8a20666a8f174",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "33a28ad029ae7a44",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "f887a8cc38607fcf",
+            "id": "eb8e447497ff70be",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -280,7 +99,7 @@
             }
           },
           {
-            "id": "2b4e7bcd431b2f73",
+            "id": "05f1b4f9dfbe12e2",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -288,9 +107,102 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "187c979f55fae740",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "6d88d6e25ccb3a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worldbuilding/Physique/Velthri/Districts/Zeri/Zeri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zeri"
+            }
+          },
+          {
+            "id": "fa48d5547f6ffe7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worldbuilding/Physique/Velthri/Districts/Zeri/Zeri.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Zeri"
+            }
+          },
+          {
+            "id": "023805305b8d3232",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "739f6222b45a9e52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worldbuilding/Physique/Velthri/Districts/Zeri/Zeri.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Zeri"
+            }
+          },
+          {
+            "id": "f7f2e38cc10f3aa1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "396949987d54c9de",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -309,48 +221,50 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7c94e1058eb1ca08",
+  "active": "81701c7d0c4efdb1",
   "lastOpenFiles": [
+    "Worldbuilding/Physique/Velthri/Districts/Uni/Uni.md",
+    "Worldbuilding/Physique/Velthri/Districts/Fanum/Fanum.md",
+    "Worldbuilding/Physique/Velthri/Districts/Caere/Caere.md",
+    "Worldbuilding/Physique/Velthri/Districts/Clevsin/Clevsin.md",
+    "Worldbuilding/Physique/Velthri/Districts/Volsinii/Volsinii.md",
+    "Worldbuilding/Physique/Velthri/Districts/Veii/Veii.md",
+    "Worldbuilding/Physique/Velthri/Districts/Tarchna/Tarchna.md",
+    "Worldbuilding/Physique/Velthri/Districts/Arimna/Arimna.md",
+    "Worldbuilding/Physique/Velthri/Districts/Perusia/Perusia.md",
+    "Worldbuilding/Physique/Velthri/Districts/Velzna/Velzna.md",
+    "Worldbuilding/Physique/Velthri/Districts/Rasna/Rasna.md",
+    "Worldbuilding/Physique/Velthri/Districts/Curtun/Curtun.md",
+    "Worldbuilding/Physique/Velthri/Districts/Zeri/Zeri.md",
     "Worldbuilding/Société/Politique/Governement/Gouvernement de Velthri.md",
-    "Worldbuilding/Physical/Velthri/Districts/Rasna/Rasna.md",
-    "Worldbuilding/Physical/Velthri/Districts/Rasna",
-    "z_templates/District.md",
-    "z_templates/Organisation.md",
-    "z_templates/Point d'intérêt.md",
-    "z_templates/Évènement.md",
-    "z_templates/Groupe Religieux.md",
     "z_templates/Langue or dialecte.md",
+    "z_templates/District.md",
+    "z_templates/Point d'intérêt.md",
+    "z_templates/Organisation.md",
     "z_templates/NPC.md",
-    "Worldbuilding/Physical/Velthri/Districts/Rasna",
-    "Worldbuilding/Physical/Velthri/Districts/Rasna",
-    "Worldbuilding/Physical/Velthri/Districts",
-    "Worldbuilding/Physical/Velthri",
-    "Worldbuilding/Events",
-    "Worldbuilding/Characters/Mythological",
-    "Worldbuilding/Societal/Religious/Untitled",
-    "Worldbuilding/Societal/Political/Untitled",
-    "Worldbuilding/Société/Politique/Factions",
+    "z_templates/Groupe Religieux.md",
+    "z_templates/Évènement.md",
+    "Worldbuilding/Physique/Tyrandor.md",
+    "Worldbuilding/Physique/Elysara.md",
+    "Worldbuilding/Physique/Velthri/Districts/Zeri",
+    "Worldbuilding/Physique/Velthri/Districts/Curtun",
+    "Worldbuilding/Physique/Velthri/Districts/Uni",
+    "Worldbuilding/Physique/Velthri/Districts/Fanum",
+    "Worldbuilding/Physique/Velthri/Districts/Caere",
+    "Worldbuilding/Physical/Velthri/Districts/Untitled.canvas",
+    "Worldbuilding/Physique/Velthri/Districts/Volsinii",
+    "Worldbuilding/Physique/Velthri/Districts/Veii",
+    "Worldbuilding/Physique/Velthri/Districts/Tarchna",
+    "Worldbuilding/Physique/Velthri/Districts/Arimna",
+    "Worldbuilding/Physique/Velthri/Districts/Perusia",
     "Worldbuilding/Locations/Material Plane/Main world/Main Continent/Antimai/Ring 9 - The Outer Ring/The Boundless Inn.md",
     "Worldbuilding/Locations/Material Plane/Main world/Main Continent/Antimai/Ring 9 - The Outer Ring/Ring 9 - The Outer Ring.md",
     "Worldbuilding/Locations/Material Plane/Main world/Main Continent/Antimai/Ring 2 - The Verdant Ring/Ring 2 - The Verdant Ring.md",
-    "Worldbuilding/Locations/Material Plane/Main world/Main Continent/Antimai/Ring 1 - The Core Ring/Ring 1 - The Core Ring.md",
-    "Worldbuilding/Events/Events.md",
-    "Worldbuilding/Worldbuilding.md",
-    "Worldbuilding/Events/Historical Events/Foundation of Antimai.md",
-    "Worldbuilding/Events/Historical Events/Expansion and Exploitation.md",
-    "Worldbuilding/Events/Timeline.md",
-    "Worldbuilding/Locations/Material Plane/Main world/Main Continent/Antimai/Antimai.md",
-    "Worldbuilding/Locations/Material Plane/Main world/Main world.md",
-    "Worldbuilding/Events/Historical Events/The Unweaving.md",
-    "Worldbuilding/Events/Historical Events/The Siege of Shadows.md",
-    "Worldbuilding/Events/Historical Events/The Pact of Rings.md",
-    "Worldbuilding/Events/Historical Events/The Ley Lines Exploitations.md",
-    "Worldbuilding/Events/Historical Events/The Installation of the Prime Arbiter.md",
     "z_Assets/Symbols and logo/TheSingularitySeekers.webp",
     "z_Assets/Symbols and logo/The Echoes of the Lost.webp",
     "Notes and Story/Faction Dynamics.canvas",
