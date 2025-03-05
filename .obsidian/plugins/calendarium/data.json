@@ -1,0 +1,437 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Antimai",
+      "description": null,
+      "id": "ID_0a5a8858da9a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lumina",
+            "id": "ID_28997b28b829",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Caelix",
+            "id": "ID_b838cb0bfac9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Veridia",
+            "id": "ID_6979eb9b18a8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Spectra",
+            "id": "ID_d92979685aab",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Terra",
+            "id": "ID_99da7a798a1a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Aetheria",
+            "id": "ID_3bcb79eb096b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Silvae",
+            "id": "ID_bba889386899",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Lune des Fondateurs",
+            "type": "month",
+            "length": 36,
+            "id": "ID_e829082acbcb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune des Floraisons",
+            "type": "month",
+            "length": 36,
+            "id": "ID_883b9929b8b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune du Zénith",
+            "type": "month",
+            "length": 35,
+            "id": "ID_f98b2b097a89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune des Récoltes",
+            "type": "month",
+            "length": 36,
+            "id": "ID_3958e8697a28",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune du Voile",
+            "type": "month",
+            "length": 35,
+            "id": "ID_697a9bbaea0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune des Forges",
+            "type": "month",
+            "length": 36,
+            "id": "ID_d88878897829",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune de Miel",
+            "type": "month",
+            "length": 35,
+            "id": "ID_98884ab8298a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune de Givre",
+            "type": "month",
+            "length": 36,
+            "id": "ID_9afb49b8d9ab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune Arcane",
+            "type": "month",
+            "length": 35,
+            "id": "ID_7ada0a98fb58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lune Silencieuse",
+            "type": "month",
+            "length": 35,
+            "id": "ID_1ac9ca3bda89",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Elysara",
+            "cycle": 42,
+            "offset": 12,
+            "faceColor": "#ff0000",
+            "shadowColor": "#38383c",
+            "id": "ID_19988ad92adb"
+          },
+          {
+            "name": "Tyrandor",
+            "cycle": 35,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_2bbaca482939"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_885be8780a49",
+            "event": false,
+            "name": "Before Unweaving",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "id": "ID_69e97a1bda09",
+            "event": false,
+            "name": "After Unweaving",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 10,
+        "month": 3,
+        "year": 208
+      },
+      "events": [
+        {
+          "name": "Frost Solstice",
+          "description": "",
+          "id": "2260952",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Frost Equinox",
+          "description": "",
+          "id": "2260953",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Regrowth Solstice",
+          "description": "",
+          "id": "2260954",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Regrowth Equinox",
+          "description": "",
+          "id": "2260955",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Harvest Solstice",
+          "description": "",
+          "id": "2260956",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Harvest Equinox",
+          "description": "",
+          "id": "2260957",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          },
+          "type": "Undated"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_ab4a987a9848",
+          "color": "#ffe1c4",
+          "name": "Historical"
+        },
+        {
+          "id": "ID_9b1bca8a6a6b",
+          "color": "#cd80e5",
+          "name": "Annual"
+        },
+        {
+          "id": "ID_990bfae96bab",
+          "color": "#9380d6",
+          "name": "Event Category 1"
+        },
+        {
+          "id": "ID_8b5aeacaea3a",
+          "color": "#f2a2b7",
+          "name": "Historical Events"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_6bba681b1ba9",
+            "name": "Season 1",
+            "type": "Periodic",
+            "color": "#ff0000",
+            "duration": 71,
+            "peak": 36,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_b99b59eb7b99",
+            "name": "Season 2",
+            "type": "Periodic",
+            "color": "#bc8b36",
+            "duration": 71,
+            "peak": 36,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_faa81858091a",
+            "name": "Season 3",
+            "type": "Periodic",
+            "color": "#00e1ff",
+            "duration": 71,
+            "peak": 36,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_aa38a97898f9",
+            "name": "Season 4",
+            "type": "Periodic",
+            "color": "#8e4eb1",
+            "duration": 71,
+            "peak": 36,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_69e8a9a8ea09",
+            "name": "Season 5",
+            "type": "Periodic",
+            "color": "#59ff00",
+            "duration": 71,
+            "peak": 36,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1938973829,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_0a5a8858da9a",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": "#inline-events",
+  "paths": [
+    [
+      "/",
+      "ID_0a5a8858da9a"
+    ]
+  ],
+  "autoParse": true
+}
